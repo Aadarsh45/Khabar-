@@ -1,8 +1,4 @@
-Here’s a complete, well-structured **README.md** for your **Khabbar** News App (Jetpack Compose + Clean Architecture), including boilerplate descriptions and key tech features:
 
----
-
-```markdown
 # 📰 Khabbar - Modern News App (Jetpack Compose)
 
 Khabbar is a modern News application built using **Jetpack Compose** following **Clean Architecture** principles. It fetches the latest headlines using REST APIs, supports article saving, offline reading, and seamless navigation.
@@ -28,13 +24,13 @@ Khabbar is a modern News application built using **Jetpack Compose** following *
 ## 📷 Screenshots
 
 
-| Splash Screen | Home Screen |
-|---------------|-------------|
-| ![](./3.png)  | ![](./5.png)|
-
-| Share Article | Search News |
-|----------------|-------------|
-| ![](./share.png) | ![](./search.png) |
+<p align="center">
+  <br>
+  <img src="./3.png" width="200" height="400">
+  <img src="./5g" width="200" height="400">
+  <img src="./search.png" width="200" height="400">
+     <img src="./share.png" width="200" height="400">
+</p>
 
 
 ---
