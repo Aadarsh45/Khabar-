@@ -27,9 +27,8 @@ Khabbar is a modern News application built using **Jetpack Compose** following *
 <p align="center">
   <br>
   <img src="./3.jpg" width="200" height="400">
-  <img src="./1.jpg" width="200" height="400">
   <img src="./search.jpg" width="200" height="400">
-     <img src="./share.jpg" width="200" height="400">
+  <img src="./share.jpg" width="200" height="400">
 </p>
 
 
